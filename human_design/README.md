@@ -10,8 +10,23 @@ Dengan mengetahui Human Design kita, kita akan lebih kenal bagaimana "settingan 
 
 ## Table of Content
 
--[x] [Background](#background)
--[ ] Introduction
--[ ] Energy Center
--[ ] Type & Strategy
--[ ] Authority
+- [Background](#background)
+- [Introduction](#introduction)
+- Energy Center
+- Type & Strategy
+- Inner Authority
+- Definition
+- Lines
+- Profiles
+- Astrology
+- Incarnation Cross
+
+## Introduction
+
+### Apa itu Human Design?
+
+Menurut Ra Uru Hu, pencipta Human Design System, Human Design adalah "The science of differentiation" yang artinya ilmu perbedaan. Menurut intepretasi Saya, Human Design adalah sebuah ilmu yang menentukan perbedaan antara satu makhluk dengan makhluk lain. Saya menyebutkan makhluk karena tidak hanya manusia tapi juga hewan.
+
+Human Design adalah self-awareness tools atau alat kesadaran diri berupa cetak biru atau blueprint yang menjelaskan keunikan setiap manusia. Tidak seperti pengelompokan kepribadian, di Human Design justru dijelaskan perbedaan di setiap persamaan karena kombinasi kategori yang akan dijelaskan di bagian lain membuat kita merasa sama dengan orang lain skaligus merasa unik karena hanya kita yang memiliki kombinasi itu.
+
+Human Design membantu kita terkoneksi dengan diri kita yang seutuhnya karena, seperti yang sudah Saya jelaskan di [background](#background), blueprint di Human Design seperti settingan awal atau fitrah diri kita dimana kita belum terpengaruh oleh lingkungan.
